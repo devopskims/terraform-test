@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 env:
-  AWS_REGION: ap-northeast-2                   # set this to your preferred AWS region, e.g. us-west-1
+  AWS_REGION: ap-northeast-2                     # set this to your preferred AWS region, e.g. us-west-1
 
 jobs:
   terraform:
